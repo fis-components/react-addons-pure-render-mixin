@@ -1,1 +1,1 @@
-module.exports = require('react').addons.PureRenderMixin;
+module.exports = require('react/lib/ReactComponentWithPureRenderMixin');
