@@ -1,0 +1,12 @@
+{
+    "repos": "https://github.com/facebook/react.git",
+    "name": "react-addons-pure-render-mixin",
+    "main": "index.js",
+    "dependencies": {
+        "react": "^0.14.4"
+    },
+    "version": "0.14.5",
+    "description": "This package provides the React PureRenderMixin add-on.",
+    "tag": "master",
+    "reposType": "npm"
+}
